@@ -1,0 +1,48 @@
+:root {
+  --bg-white: #FFFFFF;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgba(244, 244, 244, 0.6588235294);
+}
+body .s1-img {
+  background-image: url(../../images/banner.jpg);
+  height: 80vh;
+  width: auto;
+  background-size: cover;
+}
+body .s1-img .h2-title {
+  font-family: pacifico;
+  font-size: 30px;
+  color: white;
+}
+body .s1-img .hr {
+  color: white;
+}
+body .s1-img .txt {
+  color: white;
+}
+body .s-2 {
+  background-color: #FFFFFF;
+  padding: 50px 0px;
+}
+body .s-2 .cards-1 {
+  margin: auto;
+}
+body .s-2 .btn-1 {
+  background-color: var(--bg-white);
+  border: 1px Solid black;
+}
+body .S-3 {
+  padding: 50px 0px;
+}
+body .S-3 .cards-2 {
+  margin: auto;
+}
+body .S-3 .btn-2 {
+  text-transform: uppercase;
+}
+
+/*# sourceMappingURL=style.css.map */
